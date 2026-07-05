@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
-<h3 align="center">Aspiring Data Analyst | Generative AI Enthusiast | Banking Professional Transitioning into IT</h3>
+<h3 align="center">Aspiring Data scientist | Generative AI Enthusiast | Banking Professional Transitioning into IT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Analytics+Fresher;Experienced+Banking+Professional;Learning+Generative+AI;Power+BI+%7C+Tableau+Learner;Career+Transition+into+IT" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+scientist+Fresher;Experienced+Banking+Professional;Learning+Generative+AI;Power+BI+%7C+Tableau+Learner;Career+Transition+into+IT" />
 </p>
 
 ---
