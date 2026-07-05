@@ -97,6 +97,6 @@
 ---
 
 ## ✨ Fun Fact
-Transforming banking experience into Data, Analytics, Machine Learning, and Generative AI expertise — building the next chapter of my career 🚀
+Transforming banking experience into Data scientist, Analytics, Machine Learning, and Generative AI expertise — building the next chapter of my career 🚀
 
 ![Visitors](https://komarev.com/ghpvc/?username=Gowthamr1225&color=blue)
