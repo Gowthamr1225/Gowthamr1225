@@ -8,8 +8,7 @@ Banking Professional Transitioning into IT
 <p align="center">
   📍 Chennai, India •
   <a href="https://github.com/Gowthamr1225">GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-  ✉️ your.email@example.com
+  ✉️ gowthamr1225@gmail.com
 </p>
 
 ---
@@ -72,44 +71,26 @@ Banking Professional Transitioning into IT
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🔹 Google Reviews Analyzer
-
-Analyze Google Maps reviews using NLP and LLMs to generate business insights.
-
+### 🔹 Google Reviews Analyzer
+🔗 https://github.com/Gowthamr1225/Google_reviews-analyzing
 **Tech:** Python • Pandas • NLP • LLM • Streamlit
 
----
+### 🔹 Forest Cover Type Prediction
+🔗 https://github.com/Gowthamr1225/Forest-Cover-Type-Predition
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Machine learning
 
-## 🔹 Forest Cover Type Prediction
+### 🔹 Choco Crunch Analytics
+🔗 https://github.com/Gowthamr1225/Choco_Crunch_Analytics_Project.2
+**Tech:** Python • Pandas • Matplotlib • Power Bi • Sql
 
-Machine learning model to classify forest cover types.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn
-
----
-
-## 🔹 Choco Crunch Analytics
-
-Exploratory Data Analysis project to discover sales trends and business insights.
-
-**Tech:** Python • Pandas • Matplotlib
-
----
-
-## 🔹 Harvard Art Museums Explorer
-
-Explored museum artifact data using visual analytics.
-
+### 🔹 Harvard Art Museums Explorer
+🔗 https://github.com/Gowthamr1225/Harvard_Art_Museums_Artifacts_Explorer_Project.1
 **Tech:** Python • Pandas • Plotly
 
----
-
-## 🔹 Diamond Price Prediction & Market Segmentation
-
-Predict diamond prices and analyze customer segments.
-
+### 🔹 Diamond Price Prediction
+🔗 https://github.com/Gowthamr1225/Diamond-Dynamics-Price-Prediction-and-Market-Segmentation
 **Tech:** Python • Scikit-learn • Pandas
 
 ---
@@ -141,7 +122,7 @@ Predict diamond prices and analyze customer segments.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gowthamr1225&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gowtham.R&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowthamr1225&theme=tokyonight"/>
 
