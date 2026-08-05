@@ -52,7 +52,8 @@ Banking Professional Transitioning into IT
 - Scikit-learn
 - PyTorch
 - Machine Learning
-- Data Cleaning
+- Deep Learning
+- Data Cleaning & preprocessing
 - EDA
 
 ### AI
@@ -115,20 +116,6 @@ Banking Professional Transitioning into IT
 - Quick Learner
 - Team Collaboration
 - Attention to Detail
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gowtham.R&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowthamr1225&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamr1225&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
