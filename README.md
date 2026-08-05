@@ -2,7 +2,6 @@
 
 <h3 align="center">
 Aspiring Data Scientist | Generative AI Enthusiast <br>
-Banking Professional Transitioning into IT
 </h3>
 
 <p align="center">
